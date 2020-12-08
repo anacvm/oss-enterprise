@@ -10,12 +10,12 @@ Nesse contexto, nasceu a ideia da criação de um sistema facilitador para a doa
 
 ## Guia de Contribuição
 
-1. Fork e clone o repositório
-2. Crie uma novo branch
+1. Faça um Fork e clone o repositório
+2. Crie uma nova branch
 3. Faça a sua alteração
-4. Construa o projeto localmente e execute testes locais
-5. Push para o seu Fork e envie um Pull Request
-6. Esperar para ver se sua solicitação será aceita. Obrigado por contribuir!
+4. Execute testes locais
+5. Dê um Push para o seu Fork e envie um Pull Request
+6. Espere para ver se sua solicitação será aceita. Obrigado por contribuir!
 
 Dica: Se houver várias alterações que você gostaria de fazer que não dependem umas das outras, envie-as como solicitações pull separadas. Tente escrever boas mensagens de commit.
 
