@@ -35,6 +35,18 @@ public class Pet {
     @Column(nullable = false)
     private String descricao;
 
+    @ApiModelProperty(value = "Localização do pet")
+    @Column(nullable = false)
+    private String localizacao;
+
+    @ApiModelProperty(value = "Raça do pet")
+    @Column(nullable = false)
+    private String raca;
+
+    @ApiModelProperty(value = "Responsável do pet")
+    @Column(nullable = false)
+    private Pessoa responsavel;
+
     public long getId() {
         return id;
     }
@@ -83,11 +95,35 @@ public class Pet {
         this.tipo = tipo;
     }
 
+    public String getRaca() {
+        return raca;
+    }
+
+    public void setRaca(String raca) {
+        this.raca = raca;
+    }
+
     public String getDescricao() {
         return descricao;
     }
 
     public void setDescricao(String descricao) {
         this.descricao = descricao;
+    }
+
+    public String getLocalizacao() {
+        return localizacao;
+    }
+
+    public void setLocalizacao(String localizacao) {
+        this.localizacao = localizacao;
+    }
+
+    public String getResponsavel() {
+        return responsavel;
+    }
+
+    public void setResponsavel(Pessoa responsavel) {
+        this.responsavel = responsavel;
     }
 }
