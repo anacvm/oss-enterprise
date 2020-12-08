@@ -119,7 +119,7 @@ public class Pet {
         this.localizacao = localizacao;
     }
 
-    public String getResponsavel() {
+    public Pessoa getResponsavel() {
         return responsavel;
     }
 
