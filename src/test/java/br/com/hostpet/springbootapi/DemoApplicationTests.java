@@ -1,4 +1,4 @@
-package br.com.yantra.springbootapi;
+package br.com.hostpet.springbootapi;
 
 import org.junit.Test;
 import org.junit.runner.RunWith;
