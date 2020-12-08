@@ -25,7 +25,7 @@ Prezamos por um ambiente de participação profissional e respeitoso. Favor dar 
 
 ## Dúvidas e Sugestões
 
-Alguma dúvida ou sugestão? Fala com a gente!
+Alguma dúvida ou sugestão? [Crie uma Issue](https://github.com/anacvm/oss-enterprise/issues) (ou, se preferir, fale diretamente com a gente).
 
 Equipe HostPet:
 
