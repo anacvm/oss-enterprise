@@ -16,8 +16,6 @@ Nesse contexto, nasceu a ideia da criação de um sistema facilitador para a doa
 4. Construa o projeto localmente e execute testes locais
 5. Push para o seu Fork e envie um Pull Request
 6. Esperar para ver se sua solicitação será aceita. Obrigado por contribuir!
-Dê tapinhas nas suas próprias costas e espere que sua solicitação de pull seja revisada e mesclada.
-Aqui estão algumas coisas que você pode fazer para aumentar a probabilidade de sua solicitação pull ser aceita:
 
 Dica: Se houver várias alterações que você gostaria de fazer que não dependem umas das outras, envie-as como solicitações pull separadas. Tente escrever boas mensagens de commit.
 
