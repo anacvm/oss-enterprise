@@ -1,27 +1,41 @@
-# HostPet
+# 🐶 HostPet 🐱
 
-...
+A ideia do Hostpet é que ele seja um sistema web Open Source facilitador para a doação de animais de rua e adoção dos mesmos (no Brasil inteiro). Venha ajudar!
 
-## O que é o HostPet
+## Justificativa e Objetivo
 
-...
+Segundo estimativas, há cerca de 200 mil animais, entre cães e gatos, vivendo em situação de rua apenas na cidade do Salvador/BA. Além de ONGS voltadas ao resgate de animais de rua, que sofrem de superlotação, há também centenas de pessoas trabalhando independentemente para o resgate de tais animais, bem como pessoas que eventualmente se encontram em situações em que precisam acolher cachorros ou gatos das ruas e os levarem paras suas casas de forma provisória. 
+
+Nesse contexto, nasceu a ideia da criação de um sistema facilitador para a doação e adoção de animais resgatados, o HostPet. 
 
 ## Guia de Contribuição
 
-...
+1. Fork e clone o repositório
+2. Crie uma novo branch
+3. Faça a sua alteração
+4. Construa o projeto localmente e execute testes locais
+5. Push para o seu Fork e envie um Pull Request
+6. Esperar para ver se sua solicitação será aceita. Obrigado por contribuir!
+Dê tapinhas nas suas próprias costas e espere que sua solicitação de pull seja revisada e mesclada.
+Aqui estão algumas coisas que você pode fazer para aumentar a probabilidade de sua solicitação pull ser aceita:
+
+Dica: Se houver várias alterações que você gostaria de fazer que não dependem umas das outras, envie-as como solicitações pull separadas. Tente escrever boas mensagens de commit.
 
 ## Código de Conduta
 
-Prezamos por um ambiente de participação profissional e respeitoso. Favor dar uma lida no nosso [Código de Conduta](CODE_OF_CONDUCT.md) antes de participar no projeto.
+Prezamos por um ambiente de participação profissional e respeitoso. Favor dar uma lida no nosso [Código de Conduta](CODE_OF_CONDUCT.md) antes de contribuir com o projeto.
 
-## FAQ
+## Dúvidas e Sugestões
 
-...
+Alguma dúvida ou sugestão? Fala com a gente!
 
-## Sugestões e Melhorias
+Equipe HostPet:
 
-...
+Ana: [@anacvm](https://github.com/anacvm)<br>
+Bianca: [@biancamagalhaes](https://github.com/biancamagalhaes)<br>
+Ibirá: [@IbiraJr](https://github.com/IbiraJr)<br>
+Jorge: [@Jorg3Ribeiro](https://github.com/Jorg3Ribeiro)<br>
 
 ## Licença
 
-Este repositório está licenciado sob [CC-BY-4.0] (../ LICENSE) (c) 2019 GitHub, Inc.
+Este repositório está licenciado sob [Creative Commons Attribution 4.0 International](LICENSE) (c) 2019 GitHub, Inc.
