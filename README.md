@@ -6,17 +6,13 @@
 
 ...
 
-## Equipe
-
-...
-
 ## Guia de Contribuição
 
 ...
 
 ## Código de Conduta
 
-Prezamos por um ambiente de participação profissional e respeito. Favor dar uma lida no nosso [Código de Conduta](CODE_OF_CONDUCT.md) antes de participar no projeto.
+Prezamos por um ambiente de participação profissional e respeitoso. Favor dar uma lida no nosso [Código de Conduta](CODE_OF_CONDUCT.md) antes de participar no projeto.
 
 ## FAQ
 
